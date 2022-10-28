@@ -1,0 +1,18 @@
+html, body {
+  background-color: tan;
+  font-family: Arial;
+}
+
+.container {
+  width: 800px;
+  background-color: teal;
+}
+.container h1, .container .p {
+  color: yellow;
+  font-family: Consolas;
+}
+.container h3 {
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=main.css.map */
